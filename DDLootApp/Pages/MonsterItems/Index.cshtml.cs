@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using DDLootApp.Models;
 
-namespace DDLootApp.Pages
+namespace DDLootApp.Pages.MonsterItems
 {
     public class IndexModel : PageModel
     {
